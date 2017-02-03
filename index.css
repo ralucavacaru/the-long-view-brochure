@@ -190,7 +190,7 @@ body {
 }
 
 h1.new-page {
-	margin-top: 1.5cm;
+	margin-top: 1cm;
 }
 
 .facts-wrapper {
@@ -200,13 +200,24 @@ h1.new-page {
 }
 
 .fact {
-	width: 70%;
+	width: 50%;
 	color: white;
 	background-color: #363636;
 	padding: 10px;
-	font-size: 18px;
 	margin-top: 20px;
 }
 .first-fact {
-	margin-top: 50px;
+	margin-top: 2cm;
+}
+.fact h2 {
+	font-size: 16px;
+	color: #3abac2;
+	padding: 5px 0 10px 0;
+	margin: 0;
+}
+.fact p {
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0 0 5px 0;
+	padding: 0;
 }
